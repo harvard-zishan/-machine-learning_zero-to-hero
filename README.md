@@ -104,11 +104,3 @@ Contributions are what make the open-source community such an amazing place to l
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-
-  
-
-- 👯 Open to opensource contributions
-- 💬 Ask me about anything in ML
-- ✉️ Reach me at mhuzaifadev@gmail.com for contact
-- 💼 LinkedIn: https://linkedin.com/in/mhuzaifadev
